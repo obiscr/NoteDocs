@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'obiscr', // Usually your GitHub org/user name.
-  projectName: 'Note', // Usually your repo name.
+  projectName: 'note', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   scripts: [
@@ -66,7 +66,7 @@ const config = {
         id: 'support_us',
         content:
             '<b>🎉🎉🎉 <a href="https://www.npmjs.com/package/@obiscr/note">Note</a> has now been released, <a href="https://www.npmjs.com/package/@obiscr/note">Show me</a>!</b> 🎉🎉🎉',
-        backgroundColor: '#087CFA',
+        backgroundColor: '#20d58b',
         textColor: '#fff',
         isCloseable: true,
       },
