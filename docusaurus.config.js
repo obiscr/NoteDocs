@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Note',
-  tagline: 'It is a small tool to temporarily record something in the terminal.Of course, you can also record it permanently.',
+  tagline: 'It is a small tool to temporarily record something in the terminal.Of course, you can also record it permanently if you want.',
   url: 'https://github.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
